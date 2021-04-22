@@ -1,0 +1,9 @@
+body {
+    background-color: #e9ecef;
+}
+
+.presentation {
+    width: 20%;
+    height: 10%;
+    justify-content: center;
+}
